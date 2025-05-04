@@ -13,5 +13,5 @@ features:
 - profiles
 
 previews:
-![image](https://github.com/user-attachments/assets/4eacdb3b-23cf-41f3-86b9-9204cd9e49d4)
+![image](https://github.com/user-attachments/assets/eed36cb4-e7c6-4dc0-830e-0895b8f012d3)
 04/05/2025
