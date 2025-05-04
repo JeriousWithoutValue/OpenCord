@@ -1,6 +1,8 @@
 # OpenCord
 discord clone, open source
 
+ETA: next month.
+
 features:
 - cdn api
 - calls / voice chats
